@@ -1,0 +1,15 @@
+{
+  "maps": [
+    "The_Island.png",
+    "Valguero.png",
+    "Ragnarok.png",
+    "Aberration.png",
+    "Extinction.png",
+    "Lost Island.png",
+    "Fjordur.png",
+    "Genesis Part 1.png",
+    "Genesis Part 2.png"
+  ],
+  "version": "1.0",
+  "description": "ARK map images for Spawn Map Viewer"
+}

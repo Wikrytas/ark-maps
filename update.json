@@ -1,6 +1,6 @@
 {
-  "version": "6.2.2",
-  "url": "https://github.com/Wikrytas/ark-maps/releases/download/v6.2.2/ARK_Hotkeys_v6_2_2.exe",
+  "version": "6.2.1",
+  "url": "https://github.com/Wikrytas/ark-maps/releases/download/v6.2.1/ARK_Hotkeys_v6_2_1.exe",
   "changelog": "• Исправлена загрузка карт с пробелами\n• Добавлена система автообновлений\n• Исправлен размер панели",
   "mandatory": false
 }
